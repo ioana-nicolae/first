@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["master","dev","testing"]
+    "baseBranches": ["master","dev"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
